@@ -1,0 +1,2 @@
+serviceClass: com.giantflyingsaucer.client.GreetingService
+path: DDD0073C4F31A2A1ACFAEF19669E432E.gwt.rpc
